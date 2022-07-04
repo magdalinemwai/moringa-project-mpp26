@@ -37,3 +37,13 @@ nav hr{
     border: none;
     color: white;
 }
+.logo{
+    padding-right: 20%;
+}
+.img1{
+    width: 40%;
+    height: auto;
+    float: right;
+    margin-right: 130px;
+    margin-top: 50px;
+}
