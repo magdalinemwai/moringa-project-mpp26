@@ -1,0 +1,16 @@
+html,body{
+    margin: 0;
+    background-color:rgb(240, 240, 240) ;
+}
+nav{
+position: relative;
+width: 100%;
+background-color:rgb(240, 240, 240) ;
+}
+nav a{
+    position: relative;
+    text-decoration: none;
+    padding-left: 60px;
+  top: 20px;
+ justify-self: center;
+}
