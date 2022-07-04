@@ -27,3 +27,13 @@ nav hr{
     margin-top: 40px;
 }
 .btn{
+    position: relative;
+    top: 20px;
+    margin-left: 20%;
+    height: 30px;
+    width: 110px;
+    background-color: rgb(0, 42, 255);
+    border-radius: 7px;
+    border: none;
+    color: white;
+}
