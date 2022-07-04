@@ -22,3 +22,8 @@ nav img{
   top: 40px;
  justify-self: center;
 }
+nav hr{
+    position: relative;
+    margin-top: 40px;
+}
+.btn{
