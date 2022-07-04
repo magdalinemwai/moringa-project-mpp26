@@ -53,3 +53,10 @@ nav hr{
     width: 40%;
     margin-top: 50px;
     }
+    .img1_div_h{
+        color: rgb(0, 89, 255);
+        font-size: 55px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .btn1{
+        margin-left: 0;
