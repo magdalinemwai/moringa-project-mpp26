@@ -14,3 +14,11 @@ nav a{
   top: 20px;
  justify-self: center;
 }
+nav img{
+    width: 100px;
+    height: 70px;
+    position: relative;
+    padding-left: 60px;
+  top: 40px;
+ justify-self: center;
+}
